@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreatorInfoShow</string>
+    <string name="com_name">湖南科创信息技术股份有限公司</string>
+    <string name="com_website">creator@chinacreator.com</string>
+    <string name="com_phone_num">837578880731</string>
+    <string name="com_address">湖南省长沙市岳麓区青山路678号科创软件园</string>
+    <string name="com_describe">湖南科创信息技术股份有限公司成立于1998年，致力于为客户提供智慧城市应用解决方案以及专业的IT技术服务。</string>
+</resources>
